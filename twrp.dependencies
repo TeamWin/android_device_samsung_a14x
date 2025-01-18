@@ -1,2 +1,8 @@
 [
+    {
+        "remote": "TeamWin",
+        "repository": "android_device_samsung_s5e8535-common",
+        "target_path": "device/samsung/s5e8535-common",
+        "revision": "android-12.1"
+    }
 ]
